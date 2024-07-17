@@ -32,5 +32,5 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 | FT18      | Bridge No. 3,14,15,17,19| 0.35 | 1.26 |
 | FT19      | Bridge No. 7,10,13,16| 0.45 | 1.38 |
 
-#### Fig. 5. Aerial_distance_bridges
+#### Fig. 5. Aerial distance bridges
 ![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/e203c909-90c9-42ac-92fc-60a2a57258e8)
