@@ -1,3 +1,6 @@
+<span style="color: blue;">This text is blue.</span>
+
+
 "IEEE Transactions on Smart Grid,~Vol.~XX, No.~XX, Month Year"
 # "Electricity, Water and Transportation Nexus Resilience: GIS-aware Logistics Framework Utilizing Last-Mile Delivery of Solar Portable Power Supply"
 Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
