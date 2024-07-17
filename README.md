@@ -5,7 +5,7 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 ### Table I. Type of equipment fragility curve data
 <img width="398" alt="Screenshot 2024-07-16 at 20 14 39" src="https://github.com/user-attachments/assets/1d7f5184-ba39-4d49-bdf8-6afb2fb0715c">
 
-
+### Table I. Type of equipment fragility curve data
 | Fragility | Type | Fragility curve PGA (g) I0 | Fragility curve PGA (g) I1 |
 |-----------|------|----------------------------|----------------------------|
 | FT1       | Pole1| 0.18                       | 0.95                       |
@@ -28,6 +28,5 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 | FT18      | Bridge No. 3,14,15,17,19| 0.35 | 1.26 |
 | FT19      | Bridge No. 7,10,13,16| 0.45 | 1.38 |
 
-###
-![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/e203c909-90c9-42ac-92fc-60a2a57258e8)
 ### Fig. 5. Aerial_distance_bridges
+![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/e203c909-90c9-42ac-92fc-60a2a57258e8)
