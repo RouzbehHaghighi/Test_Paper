@@ -1,5 +1,7 @@
-# Test_Paper
-
+"IEEE Transactions on Smart Grid,~Vol.~XX, No.~XX, Month Year"
+## Electricity, Water and Transportation Nexus Resilience: GIS-aware Logistics Framework Utilizing Last-Mile Delivery of Solar Portable Power Supply
+Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
+        
 ## Table I. Type of equipment fragility curve data
 
 | Fragility | Type | Fragility curve PGA (g) I0 | Fragility curve PGA (g) I1 |
