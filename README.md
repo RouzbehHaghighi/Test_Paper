@@ -10,10 +10,6 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 <img width="798" alt="Screenshot 2024-07-16 at 20 39 55" src="https://github.com/user-attachments/assets/2ff05bd8-2101-40f9-8428-8eaf088bd19e">
 
 #### Table I. Type of equipment fragility curve data
-<img width="398" alt="Screenshot 2024-07-16 at 20 14 39" src="https://github.com/user-attachments/assets/1d7f5184-ba39-4d49-bdf8-6afb2fb0715c">
-
-
-#### Table I. Type of equipment fragility curve data
 | Fragility | Type | Fragility curve PGA (g) I0 | Fragility curve PGA (g) I1 |
 |-----------|------|----------------------------|----------------------------|
 | FT1       | Pole1| 0.18                       | 0.95                       |
