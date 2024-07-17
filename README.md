@@ -1,16 +1,12 @@
-<div style="text-align: center; color: blue; font-family: Arial, Helvetica, sans-serif;">
-
-
 "IEEE Transactions on Smart Grid,~Vol.~XX, No.~XX, Month Year"
 # "Electricity, Water and Transportation Nexus Resilience: GIS-aware Logistics Framework Utilizing Last-Mile Delivery of Solar Portable Power Supply"
 Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 
-
 <img width="776" alt="Screenshot 2024-07-16 at 20 37 05" src="https://github.com/user-attachments/assets/0ad603ce-4930-4b1b-ab62-a1bab4fe5dd9">
 
 
-
-### Table I. Type of equipment fragility curve data
+## Data:
+#### Table I. Type of equipment fragility curve data
 <img width="798" alt="Screenshot 2024-07-16 at 20 39 55" src="https://github.com/user-attachments/assets/2ff05bd8-2101-40f9-8428-8eaf088bd19e">
 
 ### Table I. Type of equipment fragility curve data
