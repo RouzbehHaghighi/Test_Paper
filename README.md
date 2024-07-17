@@ -2,7 +2,7 @@
 # "Electricity, Water and Transportation Nexus Resilience: GIS-aware Logistics Framework Utilizing Last-Mile Delivery of Solar Portable Power Supply"
 Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 
-## Table I. Type of equipment fragility curve data
+### Table I. Type of equipment fragility curve data
 
 | Fragility | Type | Fragility curve PGA (g) I0 | Fragility curve PGA (g) I1 |
 |-----------|------|----------------------------|----------------------------|
@@ -28,4 +28,4 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 
 ###
 ![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/e203c909-90c9-42ac-92fc-60a2a57258e8)
-## Fig. 5. Aerial_distance_bridges
+### Fig. 5. Aerial_distance_bridges
