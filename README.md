@@ -1,4 +1,4 @@
-<span style="color: blue;">This text is blue.</span>
+<div style="text-align: center; color: blue; font-family: Arial, Helvetica, sans-serif;">
 
 
 "IEEE Transactions on Smart Grid,~Vol.~XX, No.~XX, Month Year"
