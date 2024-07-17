@@ -8,7 +8,7 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 
 
 ### Table I. Type of equipment fragility curve data
-<img width="804" alt="Screenshot 2024-07-16 at 20 26 22" src="https://github.com/user-attachments/assets/c58f33a0-e0fd-431d-8f44-d64c7caf8a0e">
+<img width="798" alt="Screenshot 2024-07-16 at 20 39 55" src="https://github.com/user-attachments/assets/2ff05bd8-2101-40f9-8428-8eaf088bd19e">
 
 ### Table I. Type of equipment fragility curve data
 <img width="398" alt="Screenshot 2024-07-16 at 20 14 39" src="https://github.com/user-attachments/assets/1d7f5184-ba39-4d49-bdf8-6afb2fb0715c">
