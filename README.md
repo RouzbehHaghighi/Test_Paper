@@ -39,8 +39,3 @@ Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 
 ### Fig. 5. Aerial_distance_bridges
 ![Fig5_Aerial_distance_bridges](https://github.com/user-attachments/assets/e203c909-90c9-42ac-92fc-60a2a57258e8)
-
-
-
-
-[Book1_TEST.xlsx](https://github.com/user-attachments/files/16257857/Book1_TEST.xlsx)
