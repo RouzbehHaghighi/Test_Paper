@@ -2,6 +2,11 @@
 # "Electricity, Water and Transportation Nexus Resilience: GIS-aware Logistics Framework Utilizing Last-Mile Delivery of Solar Portable Power Supply"
 Abbas Shahbazian, Alireza Fereidunian, Saeed Manshadi, Rouzbeh Haghighi
 
+
+<img width="776" alt="Screenshot 2024-07-16 at 20 37 05" src="https://github.com/user-attachments/assets/0ad603ce-4930-4b1b-ab62-a1bab4fe5dd9">
+
+
+
 ### Table I. Type of equipment fragility curve data
 <img width="804" alt="Screenshot 2024-07-16 at 20 26 22" src="https://github.com/user-attachments/assets/c58f33a0-e0fd-431d-8f44-d64c7caf8a0e">
 
